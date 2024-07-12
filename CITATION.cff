@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Guilherme Rodrigues Alves"
+  given-names: "João Paulo"
+  orcid: "https://orcid.org/0000-0002-1787-2206"
+title: "Publication scripts"
+version: 0.1.0
+doi: 10.5281/zenodo.12730803
+date-released: 2024-07-12
+url: "https://doi.org/10.5281/zenodo.12730803"
