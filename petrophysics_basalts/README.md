@@ -12,7 +12,9 @@ Final paper: http://doi.org/---
 
 * [PermeabilityModel](PermeabilityModel) - contains the data and the Jupyter notebook for permeability model (python 3 kernel, dated 2024-07)
 
-* [WellLogs_Data](WellLogs_Data) - contains the data necessary to generate the interepolated maps and sections
+* [WellLogs_Data](WellLogs_Data) - contains the data necessary to generate the interepolated maps and the Jupyter notebook to generate the section plot (python 3 kernel, dated 2024-07)
+
+* [Maps](Maps) - contains the data (.tif, .cpt, .gpkg) and the Jupyter notebook necessary to generate the loaction and interpolated maps (python 3 kernel, dated 2024-07)
 
 
 
