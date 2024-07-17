@@ -26,7 +26,7 @@ Goulart, D. (2019). Análise e correlação de propriedades físicas e mecânica
 
 Rossetti, L. M., Healy, D., Hole, M. J., Millett, J. M., de Lima, E. F., Jerram, D. A., & Rossetti, M. M. M. (2019). Evaluating petrophysical properties of volcano-sedimentary sequences: A case study in the Paraná-Etendeka Large Igneous Province. Marine and Petroleum Geology, 102, 638–656. https://doi.org/10.1016/j.marpetgeo.2019.01.028
 
-SGB-CPRM. (2023, October 22). Programa de Revitalização da Atividade de Exploração e Produção de Petróleo e Gás Natural em Áreas Terrestres. Https://Reate.Cprm.Gov.Br/Anp/.
+SGB-CPRM. (2023, October 22). Programa de Revitalização da Atividade de Exploração e Produção de Petróleo e Gás Natural em Áreas Terrestres. https://reate.cprm.gov.br/anp/TERRESTRE.
  
 
 
